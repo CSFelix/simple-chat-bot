@@ -97,3 +97,15 @@ Besides, even though our dataset contains around 3k small talk questions, it doe
 > Dataset by [*Kreesh Rajani*](https://www.kaggle.com/kreeshrajani) from Kaggle;
 
 > Dataset URL: [3k Conversations Dataset for Chat Bot](https://www.kaggle.com/datasets/kreeshrajani/3k-conversations-dataset-for-chatbot).
+
+----
+
+<h2 id="reach-me">📫 Reach Me</h2>
+
+> Email: csfelix08@gmail.com
+
+> Linkedin: [linkedin.com/in/csfelix/](https://linkedin.com/in/csfelix/)
+
+> Portfolio: [CSFelix.io](https://csfelix.github.io)
+    
+> Kaggle: [DSFelix](https://www.kaggle.com/dsfelix)
