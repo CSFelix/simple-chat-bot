@@ -68,7 +68,7 @@ Besides, even though our dataset contains around 3k small talk questions, it doe
 
 > **Goal 2** - make the model answer simple  small talk questions based on our dataset;
 
-> **Goal 3** - make the model be able to understand and answer in **English**, **Japanese** and **Portuguese**.
+> **Goal 3** - generate a sqlite database with all knowledge acquired by the model.
 
 ----
 
@@ -80,15 +80,15 @@ Besides, even though our dataset contains around 3k small talk questions, it doe
 
 > Jupyter Notebook;
 
+> SQLite3;
+
 <br />
 
 ***Libraries***
 
 > Pandas, Numpy, WordCloud;
 
-> ChatterBot, NLTK, Tensorflow, Keras;
-
-> Pickles.
+> ChatterBot.
 
 ----
 
